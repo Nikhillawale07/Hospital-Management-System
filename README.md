@@ -6,5 +6,5 @@
  administrators.
  • Utilized JDBC for seamless database connectivity and performed CRUD operations on MySQL for data storage
  and retrieval.
- • Technologies Used: Java, Java Swing, JDBC, MySQ
+ • Technologies Used: Java, Java Swing, JDBC, MySQL
 
