@@ -56,15 +56,6 @@ The **Hospital Management System** is a comprehensive Java-based desktop applica
 
 ---
 
-## 📸 Screenshots
-
-> *(Replace these with actual images after placing them in a `screenshots/` folder inside your repo)*
-
-| Patient Dashboard | Appointment Module | Billing Window |
-|------------------|--------------------|----------------|
-| ![Patient Module](screenshots/patient_module.png) | ![Appointment Module](screenshots/appointment_module.png) | ![Billing Module](screenshots/billing_module.png) |
-
----
 
 ## 🧪 How to Run
 
