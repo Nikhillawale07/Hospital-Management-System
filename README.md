@@ -2,59 +2,73 @@
 
 ## 📌 Project Overview
 
-The **Hospital Management System** is a Java-based desktop application designed to streamline and manage essential hospital operations such as patient registration, appointment scheduling, doctor management, and billing. This system simplifies administrative tasks, improves operational efficiency, and provides a user-friendly interface for staff and hospital administrators.
+The **Hospital Management System** is a comprehensive Java-based desktop application developed to enhance the operational workflow of hospitals. It handles essential tasks such as **patient registration**, **appointment scheduling**, **doctor management**, and **billing**, all through an intuitive and user-friendly interface. This system significantly reduces administrative overhead and increases efficiency within healthcare institutions.
 
 ---
 
 ## 🎯 Key Features
 
-- 📝 **Patient Registration** – Add, update, and manage patient details securely.
-- 📅 **Appointment Scheduling** – Schedule and track appointments for patients with doctors.
-- 👨‍⚕️ **Doctor Management** – Maintain doctor profiles, specializations, and availability.
-- 💰 **Billing Module** – Generate and manage bills based on services and treatments.
+- 📝 **Patient Registration**  
+  Securely add, update, and manage patient records.
+
+- 📅 **Appointment Scheduling**  
+  Schedule, update, and monitor patient appointments with doctors.
+
+- 👨‍⚕️ **Doctor Management**  
+  Maintain comprehensive doctor profiles, including specializations and availability.
+
+- 💰 **Billing Module**  
+  Automatically generate and manage billing for services and treatments.
 
 ---
 
-## 🖥️ Technologies Used
+## 🛠️ Technologies Used
 
-| Category               | Tools/Technologies               |
-|------------------------|----------------------------------|
-| **Programming Language** | Java                            |
-| **GUI Framework**        | Java Swing                      |
-| **Database**             | MySQL                           |
+| Category                | Tools / Technologies              |
+|-------------------------|----------------------------------|
+| **Programming Language**| Java                             |
+| **GUI Framework**       | Java Swing                       |
+| **Database**            | MySQL                            |
 | **Database Connectivity**| JDBC (Java Database Connectivity) |
 
 ---
 
-## 🛠️ Modules & Functionality
+## 🧩 Modules & Functionalities
 
-### 1. Patient Module
+### 🧑‍🤝‍🧑 Patient Module
 - Register new patients
-- View, update, or delete patient records
+- View, edit, or delete patient records
+- Maintain medical history
 
-### 2. Doctor Module
-- Add and manage doctor information
-- Assign doctors to patients
+### 👨‍⚕️ Doctor Module
+- Add and manage doctor profiles
+- Link doctors to patient appointments
 
-### 3. Appointment Module
+### 📅 Appointment Module
 - Schedule new appointments
-- View upcoming and past appointments
+- View upcoming, ongoing, and past appointments
+- Avoid conflicts with automated scheduling checks
 
-### 4. Billing Module
-- Generate bills for patient treatments
-- Store billing history in database
+### 💳 Billing Module
+- Generate itemized bills for patient treatments
+- Store and retrieve billing records from the database
+- Print or export billing invoices
 
 ---
 
-## 📷 Screenshots
+## 📸 Screenshots
 
-*(Add screenshots of your application UI here for better presentation)*
+> *(Replace these with actual images after placing them in a `screenshots/` folder inside your repo)*
+
+| Patient Dashboard | Appointment Module | Billing Window |
+|------------------|--------------------|----------------|
+| ![Patient Module](screenshots/patient_module.png) | ![Appointment Module](screenshots/appointment_module.png) | ![Billing Module](screenshots/billing_module.png) |
 
 ---
 
 ## 🧪 How to Run
 
-1. Clone the repository:
+1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/hospital-management-system.git
-
+   cd hospital-management-system
