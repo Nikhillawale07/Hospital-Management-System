@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System
+# 🏥 Hospital Management System (java)
 
 ## 📌 Project Overview
 
